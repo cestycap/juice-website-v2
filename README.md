@@ -5,6 +5,8 @@
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mirre777s-projects/v0-v2-website)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/JdpRzuWmhx6)
 
+V2.2
+
 ## Overview
 
 Juice Fitness is a comprehensive trainer marketplace platform that connects fitness professionals with clients. The platform enables trainers to create professional profiles, accept payments, and manage their fitness services through an integrated subscription system.
