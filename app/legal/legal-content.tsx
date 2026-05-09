@@ -168,8 +168,8 @@ export function LegalContent({ initialTab }: LegalContentProps) {
               <section>
                 <h3 className="text-xl font-semibold mb-3">1. Who We Are</h3>
                 <p>
-                  Juice Fitness App is operated by Folger Eduardo Fonseca Velasco, who is also the designated data
-                  protection officer. He is located at Karl-Marx-Allee 53, 10243 Berlin, Germany. You can contact us at
+                  Juice Fitness App is operated by Lena Susanna Traninger, who is also the designated data
+                  protection officer. She is located at Kleine Pfarrgasse 5, Top 1, 1020 Wien, Austria. You can contact us at
                   crew@juice.fitness.
                 </p>
                 <p className="mt-2">This Privacy Policy applies to:</p>
@@ -666,8 +666,8 @@ export function LegalContent({ initialTab }: LegalContentProps) {
               <section>
                 <h3 className="text-xl font-semibold mb-3">Service Provider / Publisher</h3>
                 <p>
-                  Juice Fitness App is operated by Folger Eduardo Fonseca Velasco. He is located at Karl-Marx-Allee 53,
-                  10243 Berlin, Germany.
+                  Juice Fitness App is operated by Lena Susanna Traninger. She is located at Kleine Pfarrgasse 5, Top 1,
+                  1020 Wien, Austria.
                 </p>
               </section>
 
